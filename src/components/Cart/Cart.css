@@ -1,0 +1,51 @@
+.mainContainer {
+  background-color: #eee;
+  width: 100% !important;
+}
+
+.panel-default {
+  margin-top: 90px;
+}
+
+.fixed-header {
+  position: fixed !important;
+  background: #1976d2;
+  color: white;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  font-size: 20px;
+  width: 100% !important;
+  z-index: 1000;
+  box-shadow: 1px 3px #ccc;
+}
+
+.fixed-header h1 {
+  font-size: 20px;
+}
+
+.cart__body {
+  margin-bottom: 0.7em;
+}
+
+.cart-item {
+  margin-bottom: 0.3em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-item__name {
+  margin-left: 0.5em;
+  vertical-align: middle;
+}
+
+.cart-item__price {
+  font-weight: bold;
+}
+
+.cart__total {
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 1.1em;
+  text-align: right;
+}
