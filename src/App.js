@@ -11,6 +11,9 @@ const App = () => {
         </header>
       </div>
       <div className="row">
+        <div className="col-md-12">
+          <input type="text" placeholder="Search here" />
+        </div>
         <div className="col-md-8">
           <ProductList />
         </div>
