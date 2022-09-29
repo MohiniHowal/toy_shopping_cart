@@ -9,7 +9,9 @@
 }
 
 .caption h3 {
-  height: 30px !important;
+  height: 100px !important;
+  font-size: 18px !important;
+  color: #1976d2 !important;
 }
 
 .thumbnail .caption {
