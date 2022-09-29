@@ -53,7 +53,7 @@
 #searchBox {
   position: relative;
   top: 83px;
-  width: 100%;
+  width: 50%;
   border-radius: 4px;
   border-color: #ccc;
   box-shadow: none !important;
