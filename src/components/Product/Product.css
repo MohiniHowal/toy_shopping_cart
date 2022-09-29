@@ -26,5 +26,5 @@
 }
 
 .thumbnail img {
-  height: 140px;
+  height: 140px !important;
 }
