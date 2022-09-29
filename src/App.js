@@ -12,7 +12,7 @@ const App = () => {
       </div>
       <div className="row">
         <div className="col-md-12">
-          <input type="text" placeholder="Search here" />
+          <input type="text" placeholder="Search Product here" id="searchBox" />
         </div>
         <div className="col-md-8">
           <ProductList />

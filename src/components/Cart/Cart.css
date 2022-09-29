@@ -49,3 +49,14 @@
   line-height: 1.1em;
   text-align: right;
 }
+
+#searchBox {
+  position: relative;
+  top: 83px;
+  width: 100%;
+  border-radius: 4px;
+  border-color: #ccc;
+  box-shadow: none !important;
+  height: 35px;
+  margin: 10px 0px;
+}
